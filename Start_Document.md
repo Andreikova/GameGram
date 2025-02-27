@@ -1,4 +1,4 @@
-# GameGram
+# Start Document 
 ### Description
 GameGram is an application that mimics Instagram but focusing on gaming. The application will feature the ability to:
 - Create Posts
