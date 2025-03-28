@@ -29,3 +29,7 @@ Social media has a focus of having as many users as possible to use its services
 | Decorator | Posts will have an optional description. If a post has an existing description and a user wants to modify it, we all the user to make another description below the initial one. This is done for tracking of changes purposes. | 
 | Template | Posts will have a standardised template for how a post should look like. |
 | Abstract Factory | The abstract factory is responsible for creating the different filters for **photos** in the posts and moments. |
+
+## Class Diagram
+![Class diagram]([Gamegram class diagram.png](https://github.com/Andreikova/GameGram/blob/main/Gamegram%20class%20diagram.png))
+
