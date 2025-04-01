@@ -26406,11 +26406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khoud\\Desktop\\Projects location\\GameGram\\GameGram\\GameGram.csproj",
+      "projectUniqueName": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
       "projectName": "GameGram",
-      "projectPath": "C:\\Users\\khoud\\Desktop\\Projects location\\GameGram\\GameGram\\GameGram.csproj",
+      "projectPath": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
       "packagesPath": "C:\\Users\\khoud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khoud\\Desktop\\Projects location\\GameGram\\GameGram\\obj\\",
+      "outputPath": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

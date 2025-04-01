@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xYXT8tc4OxE=",
+  "dgSpecHash": "sCq+0txkyWU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\khoud\\Desktop\\Projects location\\GameGram\\GameGram\\GameGram.csproj",
+  "projectFilePath": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khoud\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",
     "C:\\Users\\khoud\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
