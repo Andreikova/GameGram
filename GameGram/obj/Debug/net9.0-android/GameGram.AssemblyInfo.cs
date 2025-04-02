@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameGram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dd68900571082298943b35a8ebaff5ded579cfb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+78d3a03545be2502fabaeb867530ad11c1b81196")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameGram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameGram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
