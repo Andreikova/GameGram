@@ -11,8 +11,8 @@ namespace GameGram.Models
         private const int STORY_UPTIME_DAY = 86400;
         public bool isLiked = false;
         public string pathToFile = "";
-        private int _timer; 
-        public PhotoStory (string pathToFile) 
+        private int _timer;
+        public PhotoStory(string pathToFile)
         {
             if (!string.IsNullOrEmpty(pathToFile))
             {
@@ -36,5 +36,6 @@ namespace GameGram.Models
         {
             return this;
         }
+
     }
 }
