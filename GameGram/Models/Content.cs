@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Maui.Controls;
 
 namespace GameGram.Models
 {
-	interface Story : Content
+	interface Content
 	{
-		public bool isLiked { get; set; }
-		public int timer { get; set; }
-		public abstract Story makeStory();
 	}
 }
