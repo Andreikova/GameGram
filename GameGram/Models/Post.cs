@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace GameGram.Models
 {
-    interface Post
+    interface Post : Content
     {
         public string description { get; set; }
         public bool isLiked { get; set; }
 
         public abstract Post makePost();
 
-        public abstract void addDescription(string text);
+        public abstract void AddDescription(string text);
     }
 }

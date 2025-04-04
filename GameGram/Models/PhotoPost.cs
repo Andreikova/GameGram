@@ -8,21 +8,21 @@ namespace GameGram.Models
 {
     internal class PhotoPost : PostFactory, Post
     {
-        private string _pathToFile;    
+        private string _pathToFile;
         private string _description = "";
         public bool _isLiked;
 
-        PhotoPost(string pathToFile) 
+        public PhotoPost(string pathToFile)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
         }
 
-        PhotoPost(string pathToFile, string description)
+        public PhotoPost(string pathToFile, string description)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
-            addDescription(description);
+            AddDescription(description);
         }
 
         public string pathToFile
@@ -38,10 +38,10 @@ namespace GameGram.Models
         }
 
         public string description { get => this._description; set => description = _description; }
-        public bool isLiked { get => this.isLiked; set => this.isLiked = !isLiked; }
+        public bool isLiked { get => this._isLiked; set => this._isLiked = !isLiked; }
 
 
-        public void addDescription(string text)
+        public void AddDescription(string text)
         {
             this._description += text;
         }

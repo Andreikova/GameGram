@@ -8,8 +8,8 @@ namespace GameGram.Models
 {
     internal abstract class ContentGenerator
     {
-        public abstract PhotoPost makePhotoContent();
-        public abstract VideoPost makeVideoContent();
+        public abstract Content makePhotoContent();
+        public abstract Content makeVideoContent();
 
     }
 }
