@@ -10,6 +10,4 @@ namespace GameGram.Models
 	{
 
 	}
-		public abstract Story makeStory();
-	}
 }
