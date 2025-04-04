@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\khoud\\source\\repos\\GameGram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\photopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\photopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\storyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\storyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\gamegram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\gamegram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\videostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\videostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\photostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\photostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\postfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\postfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\extradescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\extradescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 259,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,119 +46,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PhotoPost.cs",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PhotoPost.cs",
-              "RelativeDocumentMoniker": "GameGram\\Models\\PhotoPost.cs",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PhotoPost.cs",
-              "RelativeToolTip": "GameGram\\Models\\PhotoPost.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PhotoStory.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PhotoStory.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\PhotoStory.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PhotoStory.cs",
+              "RelativeToolTip": "GameGram\\Models\\PhotoStory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T03:50:55.449Z",
+              "WhenOpened": "2025-04-04T04:31:24.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "PostFactory.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PostFactory.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\PostFactory.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PostFactory.cs",
+              "RelativeToolTip": "GameGram\\Models\\PostFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:21:11.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "GameGram\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml.cs",
               "RelativeToolTip": "GameGram\\MainPage.xaml.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T03:02:08.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Story.cs",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Story.cs",
-              "RelativeDocumentMoniker": "GameGram\\Models\\Story.cs",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Story.cs",
-              "RelativeToolTip": "GameGram\\Models\\Story.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:56:37.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Content.cs",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Content.cs",
-              "RelativeDocumentMoniker": "GameGram\\Models\\Content.cs",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Content.cs",
-              "RelativeToolTip": "GameGram\\Models\\Content.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:51:59.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml",
               "RelativeDocumentMoniker": "GameGram\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml*",
-              "RelativeToolTip": "GameGram\\MainPage.xaml*",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAqwIEAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml",
+              "RelativeToolTip": "GameGram\\MainPage.xaml",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAuwGUBAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-04T02:51:35.792Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExtraDescription.cs",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\ExtraDescription.cs",
-              "RelativeDocumentMoniker": "GameGram\\Models\\ExtraDescription.cs",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\ExtraDescription.cs",
-              "RelativeToolTip": "GameGram\\Models\\ExtraDescription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:49:12.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostFactory.cs",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PostFactory.cs",
-              "RelativeDocumentMoniker": "GameGram\\Models\\PostFactory.cs",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PostFactory.cs",
-              "RelativeToolTip": "GameGram\\Models\\PostFactory.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAtwB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:49:10.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "StoryFactory.cs",
               "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\StoryFactory.cs",
               "RelativeDocumentMoniker": "GameGram\\Models\\StoryFactory.cs",
               "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\StoryFactory.cs",
               "RelativeToolTip": "GameGram\\Models\\StoryFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:45:55.89Z",
+              "WhenOpened": "2025-04-04T04:21:48.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameGram.csproj",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
-              "RelativeDocumentMoniker": "GameGram\\GameGram.csproj",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
-              "RelativeToolTip": "GameGram\\GameGram.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-04T02:16:15.723Z",
+              "DocumentIndex": 3,
+              "Title": "VideoStory.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\VideoStory.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\VideoStory.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\VideoStory.cs",
+              "RelativeToolTip": "GameGram\\Models\\VideoStory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:30:38.141Z",
               "EditorCaption": ""
             }
           ]

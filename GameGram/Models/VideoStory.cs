@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace GameGram.Models
 {
-    internal class VideoStory : StoryFactory, Story
-    {
+        class VideoStory : StoryFactory, Story
+        {
         private const int STORY_UPTIME_DAY = 86400;     //Day in seconds
-        public bool isLiked = false;
+        private bool _isLiked = false;
         public string pathToFile = "";
         private int _timer;
         public VideoStory(string pathToFile)
         {
-            if (!string.IsNullOrEmpty(pathToFile))
+            if (pathToFile != null)
             {
                 this.pathToFile = pathToFile;
             }
@@ -28,7 +28,14 @@ namespace GameGram.Models
 
 
         //Inverts the boolean on a set call 
-        bool Story.isLiked { get => this.isLiked; set => this.isLiked = !isLiked; }
+        bool Story.isLiked
+        {
+            get => this._isLiked;
+            set 
+            { 
+                _isLiked = !_isLiked;
+            }
+        }
         public int timer { get => _timer; set => _timer = value; }
 
 

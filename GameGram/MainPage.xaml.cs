@@ -123,14 +123,17 @@ namespace GameGram
         }
     }
 
-    // Color converter for likes
+    // Color converter for likes with customizable colors
     public class BoolToColorConverter : IValueConverter
     {
+        public Color TrueColor { get; set; } = Colors.Red;
+        public Color FalseColor { get; set; } = Colors.Transparent;
+
         public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
         {
             if (value is bool isLiked && isLiked)
-                return Colors.Red;
-            return Colors.Transparent;
+                return TrueColor;
+            return FalseColor;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
@@ -138,4 +141,5 @@ namespace GameGram
             throw new NotImplementedException();
         }
     }
+
 }

@@ -13,14 +13,14 @@ namespace GameGram.Models
         {
             PhotoStory photoStory = new PhotoStory(filePath);
             GameGram.stories.Add(photoStory);
-            return new PhotoStory(filePath);
+            return photoStory;
         }
 
         public override Content makeVideoContent()
         {
             VideoStory videoStory = new VideoStory(filePath);
             GameGram.stories.Add(videoStory);
-            return new VideoStory(filePath);
+            return videoStory;
         }
 
         public async Task<Content> CreatePhotoStoryAsync()

@@ -9,18 +9,18 @@ namespace GameGram.Models
     internal class PhotoStory : StoryFactory, Story
     {
         private const int STORY_UPTIME_DAY = 86400;
-        public bool isLiked = false;
+        private bool _isLiked = false;
         public string pathToFile = "";
         private int _timer;
         public PhotoStory(string pathToFile)
         {
-            if (!string.IsNullOrEmpty(pathToFile))
-            {
+            if (pathToFile != null)
+            { 
                 this.pathToFile = pathToFile;
             }
             else
             {
-                throw new ArgumentException("Invalid file path");
+               throw new ArgumentException("Invalid file path");
             }
 
             this._timer = STORY_UPTIME_DAY;
@@ -28,7 +28,14 @@ namespace GameGram.Models
 
 
         //Inverts the boolean on a set call 
-        bool Story.isLiked { get => this.isLiked; set => this.isLiked = !isLiked; }
+        bool Story.isLiked
+        {
+            get => this._isLiked;
+            set
+            {
+                _isLiked = !_isLiked;
+            }
+        }
         public int timer { get => _timer; set => _timer = value; }
 
 
