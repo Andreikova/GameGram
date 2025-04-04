@@ -10,6 +10,7 @@ namespace GameGram.Models
     {
         public string filePath = null;
         public string description = " ";
+
         public override Content makePhotoContent()
         {
             PhotoPost photoPost;

@@ -10,6 +10,7 @@ namespace GameGram.Models
         {
         private const int STORY_UPTIME_DAY = 86400;     //Day in seconds
         private bool _isLiked = false;
+
         public string pathToFile = "";
         private int _timer;
         public VideoStory(string pathToFile)
