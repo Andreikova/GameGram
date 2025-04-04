@@ -9,16 +9,12 @@ namespace GameGram.Models
     internal class ExtraDescription : DescriptionAdder
     {
         public Post wrappee;
-        public string descriptionToAdd;
+        public required string descriptionToAdd;
 
-        public ExtraDescription(string descriptionToAdd, Post wrappee)
+        public override ExtraDescription descriptionAdder(Post post, string descriptionToAdd)
         {
-            this.wrappee = wrappee;
+            this.wrappee = post;
             this.descriptionToAdd = descriptionToAdd;
-        }
-
-        public override ExtraDescription descriptionAdder(Post post)
-        {
             return this;
         }
     }
