@@ -18,11 +18,11 @@ namespace GameGram.Models
             this._isLiked = false;
         }
 
-        VideoPost(string pathToFile , string description)
+        VideoPost(string pathToFile, string description)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
-            addDescription(description);
+            AddDescription(description);
         }
 
         public string pathToFile
@@ -40,7 +40,7 @@ namespace GameGram.Models
         public string description { get => this._description; set => description = _description; }
         public bool isLiked { get => this.isLiked; set => this.isLiked = !isLiked; }
 
-        public void addDescription(string text)
+        public void AddDescription(string text)
         {
             this._description += text;
         }

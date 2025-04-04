@@ -8,6 +8,6 @@ namespace GameGram.Models
 {
     abstract class DescriptionAdder
     {
-        public abstract DescriptionAdder descriptionAdder(Post post);
+        public abstract DescriptionAdder descriptionAdder(Post post, string descriptionToAdd);
     }
 }
