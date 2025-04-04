@@ -31,5 +31,5 @@ Social media has a focus of having as many users as possible to use its services
 | Abstract Factory | The abstract factory is responsible for creating the different filters for **photos** in the posts and moments. |
 
 ## Class Diagram
-[<img src="class-diagram.png">](https://github.com/Andreikova/GameGram/blob/main/class-diagram.png)
+[<img src="Design-Patterns-diagram.drawio.png">](https://github.com/Andreikova/GameGram/blob/main/class-diagram.png)
 
