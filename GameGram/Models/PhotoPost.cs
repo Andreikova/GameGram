@@ -38,7 +38,7 @@ namespace GameGram.Models
         }
 
         public string description { get => this._description; set => description = _description; }
-        public bool isLiked { get => this.isLiked; set => this.isLiked = !isLiked; }
+        public bool isLiked { get => this._isLiked; set => this._isLiked = !isLiked; }
 
 
         public void AddDescription(string text)

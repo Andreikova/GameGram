@@ -115,7 +115,10 @@
                                        Grid.ColumnSpan="2"
                                        Text="{Binding description}"
                                        Margin="0,5" />
-                                <Button Grid.Row="3" 
+                                
+                                
+                                <Button  
+                                        Grid.Row="3" 
                                         Grid.Column="0"
                                         Text="♥" 
                                         FontSize="18"
@@ -123,7 +126,10 @@
                                         WidthRequest="40"
                                         HorizontalOptions="Start"
                                         BackgroundColor="{Binding isLiked, Converter={StaticResource BoolToColorConverter}}"
-                                        Clicked="OnPostLiked" />
+                                        Clicked="OnPostLiked" 
+                                    />
+                                
+                                
                                 <Label Grid.Row="3" 
                                        Grid.Column="1"
                                        Text="Add comment..." 

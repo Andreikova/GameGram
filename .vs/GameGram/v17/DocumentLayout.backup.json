@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\khoud\\source\\repos\\GameGram\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\photopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\photopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\storyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\storyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\gamegram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\gamegram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\postfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\postfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|c:\\users\\khoud\\source\\repos\\gamegram\\gamegram\\models\\extradescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B66CF5-EE5A-4245-8393-C1157095B9EB}|GameGram\\GameGram.csproj|solutionrelative:gamegram\\models\\extradescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -30,28 +58,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotoPost.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PhotoPost.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\PhotoPost.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PhotoPost.cs",
+              "RelativeToolTip": "GameGram\\Models\\PhotoPost.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:50:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml",
-              "RelativeDocumentMoniker": "GameGram\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml",
-              "RelativeToolTip": "GameGram\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-01T22:07:58.025Z",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GameGram\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml.cs",
+              "RelativeToolTip": "GameGram\\MainPage.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:02:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\Story.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Story.cs",
+              "RelativeToolTip": "GameGram\\Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:56:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Content.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\Content.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\Content.cs",
+              "RelativeToolTip": "GameGram\\Models\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:51:59.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "GameGram\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MauiProgram.cs",
-              "RelativeToolTip": "GameGram\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GameGram\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\MainPage.xaml*",
+              "RelativeToolTip": "GameGram\\MainPage.xaml*",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwIEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T02:51:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtraDescription.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\ExtraDescription.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\ExtraDescription.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\ExtraDescription.cs",
+              "RelativeToolTip": "GameGram\\Models\\ExtraDescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:07:55.882Z",
+              "WhenOpened": "2025-04-04T02:49:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostFactory.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PostFactory.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\PostFactory.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\PostFactory.cs",
+              "RelativeToolTip": "GameGram\\Models\\PostFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:49:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\StoryFactory.cs",
+              "RelativeDocumentMoniker": "GameGram\\Models\\StoryFactory.cs",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\Models\\StoryFactory.cs",
+              "RelativeToolTip": "GameGram\\Models\\StoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:45:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameGram.csproj",
+              "DocumentMoniker": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
+              "RelativeDocumentMoniker": "GameGram\\GameGram.csproj",
+              "ToolTip": "C:\\Users\\khoud\\source\\repos\\GameGram\\GameGram\\GameGram.csproj",
+              "RelativeToolTip": "GameGram\\GameGram.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T02:16:15.723Z",
               "EditorCaption": ""
             }
           ]
