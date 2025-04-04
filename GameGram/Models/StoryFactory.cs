@@ -1,22 +1,47 @@
-﻿namespace GameGram.Models
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GameGram.Models
 {
     internal abstract class StoryFactory : ContentGenerator
     {
-        public string filePath { get; set; }
+        public string filePath = null;
         public override Content makePhotoContent()
         {
-            GameGram.stories.Add(new PhotoStory(filePath));
-
+            PhotoStory photoStory = new PhotoStory(filePath);
+            GameGram.stories.Add(photoStory);
             return new PhotoStory(filePath);
         }
 
         public override Content makeVideoContent()
         {
-            //TODO: use mediapicker and implement
-            return null;
+            VideoStory videoStory = new VideoStory(filePath);
+            GameGram.stories.Add(videoStory);
+            return new VideoStory(filePath);
         }
 
+        public async Task<Content> CreatePhotoStoryAsync()
+        {
+            bool success = await addPhoto();
+            if (!success)
+            {
+                throw new InvalidOperationException("failed to get photo");
+            }
+            return makePhotoContent();
+        }
 
+        public async Task<Content> CreateVideoStoryAsync()
+        {
+            bool success = await addVideo();
+            if (!success)
+            {
+                throw new InvalidOperationException("failed to get video");
+            }
+            return makeVideoContent();
+        }
 
         public async Task<bool> addVideo()
         {
@@ -33,17 +58,10 @@
                        result.FileName.EndsWith("mp4", StringComparison.OrdinalIgnoreCase) ||
                        result.FileName.EndsWith("svi", StringComparison.OrdinalIgnoreCase))
                     {
-                        using var stream = await result.OpenReadAsync();
-                        var image = ImageSource.FromStream(() => stream);
                     }
                     this.filePath = result.FileName;
-                    if (result == null)
-                    {
-                        return false;
-                    }
                     return true;
                 }
-
             }
             catch (Exception)
             {
@@ -51,8 +69,6 @@
             }
             return false;
         }
-
-
 
         public async Task<bool> addPhoto()
         {
@@ -67,25 +83,17 @@
                         result.FileName.EndsWith("pdf", StringComparison.OrdinalIgnoreCase) ||
                         result.FileName.EndsWith("svg", StringComparison.OrdinalIgnoreCase))
                     {
-                        using var stream = await result.OpenReadAsync();
-                        var image = ImageSource.FromStream(() => stream);
                     }
                     this.filePath = result.FileName;
+                    return true;
                 }
-                if (result == null)
-                {
-                    return false;
-                }
-
-                return true;
+                return false;
             }
             catch (Exception)
             {
                 //
             }
-
             return false;
         }
-
     }
 }

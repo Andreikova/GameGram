@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GameGram.Models
 {
-	interface Content
-	{ }
+	interface Story : Content
+	{
+		public bool isLiked { get; set; }
+		public int timer { get; set; }
+		public abstract Story makeStory();
+	}
 }

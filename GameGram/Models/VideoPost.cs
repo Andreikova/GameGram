@@ -12,13 +12,13 @@ namespace GameGram.Models
         private string _description = "";
         private bool _isLiked;
 
-        VideoPost(string pathToFile)
+        public VideoPost(string pathToFile)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
         }
 
-        VideoPost(string pathToFile, string description)
+        public VideoPost(string pathToFile, string description)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
@@ -37,7 +37,7 @@ namespace GameGram.Models
             }
         }
 
-        public string description { get => this._description; set => description = _description; }
+        public string description { get => this._description; set => _description = description; }
         public bool isLiked { get => this.isLiked; set => this.isLiked = !isLiked; }
 
         public void AddDescription(string text)
