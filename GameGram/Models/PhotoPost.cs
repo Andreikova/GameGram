@@ -12,13 +12,13 @@ namespace GameGram.Models
         private string _description = "";
         public bool _isLiked;
 
-        PhotoPost(string pathToFile)
+        public PhotoPost(string pathToFile)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
         }
 
-        PhotoPost(string pathToFile, string description)
+        public PhotoPost(string pathToFile, string description)
         {
             this.pathToFile = pathToFile;
             this._isLiked = false;
