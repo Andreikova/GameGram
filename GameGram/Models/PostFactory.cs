@@ -8,14 +8,14 @@ namespace GameGram.Models
 {
     internal abstract class PostFactory : ContentGenerator
     {
-        public override PhotoPost makePhotoContent()
+        public override Content makePhotoContent()
         {
 
             //TODO: use mediapicker and implement
             return null;
         }
 
-        public override VideoPost makeVideoContent()
+        public override Content makeVideoContent()
         {
             //TODO: use mediapicker and implement
             return null;

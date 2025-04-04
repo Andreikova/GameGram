@@ -8,7 +8,7 @@ namespace GameGram.Models
 {
     internal class VideoStory : StoryFactory, Story
     {
-        private const int STORY_UPTIME_DAY = 86400;
+        private const int STORY_UPTIME_DAY = 86400;     //Day in seconds
         public bool isLiked = false;
         public string pathToFile = "";
         private int _timer;
